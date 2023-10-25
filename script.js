@@ -73,7 +73,7 @@ if(inputannilai >= 100){
     alert("EROR");
 }else if(inputannilai >= 96){
     grade = "A";
-}else if(inputannilai >= 91){
+}else if(inputannilai >= 90){
     grade = "B";
 }else if(inputannilai >= 86){
     grade = "C";
